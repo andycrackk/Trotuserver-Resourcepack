@@ -1,0 +1,31 @@
+name: Tortupack
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Trotupack check repo
+        uses: actions/checkout@v4
+
+      - name: name zip
+        id: vars
+        run: echo "tag=${GITHUB_REF##*/}" >> "$GITHUB_OUTPUT"
+        
+      - name: Trotupack zip
+        run: |
+          zip -r "Trotupack_CIT_${{ steps.vars.outputs.tag }}.zip" . -x ".git/*" ".github/*" "README.md"
+
+      - name: Trotuserver Release
+        uses: softprops/action-gh-release@v1
+        with:
+          name: Trotupack CIT ${{ steps.vars.outputs.tag }}
+          tag_name: ${{ github.ref }}
+          files: "Trotupack_CIT_${{ steps.vars.outputs.tag }}.zip"
+        env: 
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
