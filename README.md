@@ -1,4 +1,5 @@
-# Trotuserver Resourcepack Features
+# ![image](https://crafatar.com/avatars/d2f40f41-f359-4d9e-860e-28e31833cfc7?size=25) Trotuserver Resourcepack Features ![image](https://crafatar.com/avatars/d2f40f41-f359-4d9e-860e-28e31833cfc7?size=25)
+
 
 ## Retextures
 - Different textures for all suspicious stews.
