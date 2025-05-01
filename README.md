@@ -1,4 +1,4 @@
-# Trotuserver-Resourcepack
+# Trotuserver Resourcepack Features
 
 ## Retextures
 - Different textures for all suspicious stews.
