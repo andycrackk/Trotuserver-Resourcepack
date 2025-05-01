@@ -43,7 +43,7 @@
   - Occitania
 - Currency textures for:
   - Beruninos
-  - Fexomonedas (please don't commit forgery)
+  - Fexomonedas ᴾˡᵉᵃˢᵉ ᵈᵒⁿᵗ ᶜᵒᵐᵐᶦᵗ ᶠᵒʳᵍᵉʳʸ
   - Freemarks
   - Noble Crownets
 - Different textures for fireworks according to flight duration.
