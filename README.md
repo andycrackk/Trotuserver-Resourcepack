@@ -70,7 +70,7 @@
   - Netherite Armour: `Atlasian ...`
   - Netherite Sword: `Atlan Spike`
   - Elytra: `Atlasian Wings ...`
-  - Flight Helmet (Netherite): `Winged Atlasian*`
+  - Flight Helmet (Netherite): `Winged Atlasian ...`
   - Netherite Axe: `Atlasian Saw`
   - Netherite Pickaxe: `Atlasian Wrench`
   - Netherite Hoe: `Atlasian Hammer`
