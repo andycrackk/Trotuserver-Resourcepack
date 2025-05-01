@@ -1,4 +1,4 @@
-# Trotuserver-Resourcepack (outdated)
+# Trotuserver-Resourcepack
 
 ## Retextures
 - Different textures for all suspicious stews.
@@ -35,6 +35,7 @@
 - Crown textures for:
   - Arez
   - Astoria
+  - Atlasia
   - Berún
   - Cormere
   - Danswijk
@@ -42,7 +43,7 @@
   - Occitania
 - Currency textures for:
   - Beruninos
-  - Fexomonedas
+  - Fexomonedas (please don't commit forgery)
   - Freemarks
   - Noble Crownets
 - Different textures for fireworks according to flight duration.
@@ -60,14 +61,24 @@
 - Fern as `Weed`
 
 ## Nation Gear
-- Atlasia:
-  - Netherite Armour: `Atlasian ...`
-  - Netherite Sword: `Atlan Spike`
+###### (Some equipment may not have an item texture (in the inventory))
 - Adeptus Mechanicus:
   - Netherite Armour: `Mechanicus ...`
   - Netherite Sword: `Mechanicus Battleaxe`
+- Atlasia:
+  - Netherite Armour: `Atlasian ...`
+  - Netherite Sword: `Atlan Spike`
+  - Elytra: `Atlasian Wings ...`
+  - Flight Helmet (Netherite): `Winged Atlasian*`
+  - Netherite Axe: `Atlasian Saw`
+  - Netherite Pickaxe: `Atlasian Wrench`
+  - Netherite Hoe: `Atlasian Hammer`
+  - Netherite Shovel: `Atlasian Shovel`
+  - Brush: `Atlasian Mop`
 - Beleriand:
   - Netherite Armour: `Belerian ...`
+- Berun:
+  - Netherite Armor: `Berunian ...`
 - Chesapeak:
   - Netherite Armour: `Chesa ...`
 - Cormere:
