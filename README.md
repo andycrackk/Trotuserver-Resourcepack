@@ -2,28 +2,29 @@
 
 
 ## Retextures
-- Different textures for all suspicious stews.
 - Bottom cactus texture as _kaktus_.
 - Piglin brute face as _kaktus_
-- Lower fire.
-- Enchantment glint.
 - Enhanced shield banners.
 - Menu screen panorama as Spawn Island.
-- Plain leather armour.
 - Brown pandas as grizzly bears.
 - `U+263A` as a trollface.
 - Custom paintings:
   - alban
   - aztec
+  - bouquet
   - burning_skull
   - bust
   - courbet
   - creebet
   - donkey_kong
+  - endboss
   - fighters
+  - graham
   - kebab
   - match
+  - pigscene
   - pool
+  - skeleton
   - skull_and_roses
   - stage
   - sunset
@@ -58,7 +59,7 @@
 - Leather tunic as `suit`
 - Leather armour as `Statue`
 - Sugar as `Cocaine`
-- Netherite or diamond helmets as `press` (battle spectator)
+- Netherite as `press` (battle spectator)
 - Fern as `Weed`
 
 ## Nation Gear
@@ -69,8 +70,8 @@
 - Atlasia:
   - Netherite Armour: `Atlasian ...`
   - Netherite Sword: `Atlan Spike`
-  - Elytra: `Atlasian Wings ...`
-  - Flight Helmet (Netherite): `Winged Atlasian ...`
+  - Elytra: `Atlasian Wings`
+  - Flight Helmet (Netherite): `Winged Atlasian`
   - Netherite Axe: `Atlasian Saw`
   - Netherite Pickaxe: `Atlasian Wrench`
   - Netherite Hoe: `Atlasian Hammer`
@@ -97,4 +98,12 @@
 ## Sounds
 - Sculk shrieker "shriek1" as _goofy ahh_.
 - Wolf "shake" as _what the dog doin'?_.
-- Record 13 as _It's Just a Burning Memory_, from the Caretaker.
+- Record 5 as Epicenter of Time
+- Record 11 as Chipi Chipi Totamak
+- Record 13 as Undesired by rommirom
+- Record blocks as VorraneGaul Diss Track by rommirom
+- Record far as Edelweiss Must Grow by VorraneGaul
+- Record mall as It's the Elite by CD_Cyber_Dragon and VorraGaul
+- Record precipice as Welcome to Trotuserver by VorraneGaul
+- Record wait as One Day More by VorraneGaul
+- Record ward as Mr. Pig Empire by CD_Cyber_Dragon
