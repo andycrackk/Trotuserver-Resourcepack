@@ -30,7 +30,7 @@
   - sunset
   - void
 
-## Proper
+## Proper (not working currently)
 - Book textures for:
 - Naten's Autobiography
 - Zaniel's Autobiography
@@ -48,8 +48,6 @@
   - Fexomonedas ᴾˡᵉᵃˢᵉ ᵈᵒⁿᵗ ᶜᵒᵐᵐᶦᵗ ᶠᵒʳᵍᵉʳʸ
   - Freemarks
   - Noble Crownets
-- Different textures for fireworks according to flight duration.
-- Textures for ArtKit items canvas, easel and artwork.
 - Textures for R.I.C.:
   - Ticket
   - LifePass
@@ -78,11 +76,11 @@
   - Netherite Shovel: `Atlasian Shovel`
   - Brush: `Atlasian Mop`
 - Beleriand:
-  - Netherite Armour: `Belerian ...`
+  - Netherite Armour: `Beleriand ...`
 - Berun:
   - Netherite Armor: `Berunian ...`
 - Chesapeak:
-  - Netherite Armour: `Chesa ...`
+  - Netherite Armour: `Chesapeak ...`
 - Cormere:
   - Netherite Sword: `Cormerian Sabre`
 - Evermond:
