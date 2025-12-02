@@ -30,7 +30,7 @@
   - sunset
   - void
 
-## Proper (not working currently)
+## Proper
 - Book textures for:
 - Naten's Autobiography
 - Zaniel's Autobiography
@@ -61,7 +61,6 @@
 - Fern as `Weed`
 
 ## Nation Gear
-###### (Some equipment may not have an item texture (in the inventory))
 - Adeptus Mechanicus:
   - Netherite Armour: `Mechanicus ...`
   - Netherite Sword: `Mechanicus Battleaxe`
