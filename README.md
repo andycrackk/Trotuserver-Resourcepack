@@ -11,6 +11,7 @@
 - Custom paintings:
   - alban
   - aztec
+  - backyard
   - bouquet
   - burning_skull
   - bust
@@ -64,6 +65,8 @@
 - Adeptus Mechanicus:
   - Netherite Armour: `Mechanicus ...`
   - Netherite Sword: `Mechanicus Battleaxe`
+- Askegardd:
+  - Netherite Armour: `askegarddian ...`
 - Atlasia:
   - Netherite Armour: `Atlasian ...`
   - Netherite Sword: `Atlan Spike`
@@ -100,6 +103,7 @@
 - Record 13 as Undesired by rommirom
 - Record blocks as VorraneGaul Diss Track by rommirom
 - Record far as Edelweiss Must Grow by VorraneGaul
+- Record relic as Libertas Not Like Us by Vorranegaul
 - Record mall as It's the Elite by CD_Cyber_Dragon and VorraneGaul
 - Record precipice as Welcome to Trotuserver by VorraneGaul
 - Record wait as One Day More by VorraneGaul
