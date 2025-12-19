@@ -1,4 +1,4 @@
-# ![image](https://crafatar.com/avatars/d2f40f41-f359-4d9e-860e-28e31833cfc7?size=25) Trotuserver Resourcepack Features ![image](https://crafatar.com/avatars/d2f40f41-f359-4d9e-860e-28e31833cfc7?size=25)
+# ![image](https://s.namemc.com/2d/skin/face.png?id=00989e64427c2423&scale=4) Trotuserver Resourcepack Features ![image](https://s.namemc.com/2d/skin/face.png?id=00989e64427c2423&scale=4)
 
 
 ## Retextures
@@ -11,6 +11,7 @@
 - Custom paintings:
   - alban
   - aztec
+  - backyard
   - bouquet
   - burning_skull
   - bust
@@ -48,8 +49,6 @@
   - Fexomonedas ᴾˡᵉᵃˢᵉ ᵈᵒⁿᵗ ᶜᵒᵐᵐᶦᵗ ᶠᵒʳᵍᵉʳʸ
   - Freemarks
   - Noble Crownets
-- Different textures for fireworks according to flight duration.
-- Textures for ArtKit items canvas, easel and artwork.
 - Textures for R.I.C.:
   - Ticket
   - LifePass
@@ -63,10 +62,11 @@
 - Fern as `Weed`
 
 ## Nation Gear
-###### (Some equipment may not have an item texture (in the inventory))
 - Adeptus Mechanicus:
   - Netherite Armour: `Mechanicus ...`
   - Netherite Sword: `Mechanicus Battleaxe`
+- Askegardd:
+  - Netherite Armour: `askegarddian ...`
 - Atlasia:
   - Netherite Armour: `Atlasian ...`
   - Netherite Sword: `Atlan Spike`
@@ -78,11 +78,11 @@
   - Netherite Shovel: `Atlasian Shovel`
   - Brush: `Atlasian Mop`
 - Beleriand:
-  - Netherite Armour: `Belerian ...`
+  - Netherite Armour: `Beleriand ...`
 - Berun:
   - Netherite Armor: `Berunian ...`
 - Chesapeak:
-  - Netherite Armour: `Chesa ...`
+  - Netherite Armour: `Chesapeak ...`
 - Cormere:
   - Netherite Sword: `Cormerian Sabre`
 - Evermond:
@@ -103,7 +103,8 @@
 - Record 13 as Undesired by rommirom
 - Record blocks as VorraneGaul Diss Track by rommirom
 - Record far as Edelweiss Must Grow by VorraneGaul
-- Record mall as It's the Elite by CD_Cyber_Dragon and VorraGaul
+- Record relic as Libertas Not Like Us by Vorranegaul
+- Record mall as It's the Elite by CD_Cyber_Dragon and VorraneGaul
 - Record precipice as Welcome to Trotuserver by VorraneGaul
 - Record wait as One Day More by VorraneGaul
 - Record ward as Mr. Pig Empire by CD_Cyber_Dragon
